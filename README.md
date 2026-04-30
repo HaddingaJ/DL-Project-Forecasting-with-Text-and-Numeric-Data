@@ -13,7 +13,9 @@ This repository contains the following files
 
 
 Running the notebooks should be carried out sequentially:
+
 Analysis_multimodal relies on the transformed transcripts from Text_Preprocessing
+
 Analysis_multimodal uses hyperparameters from the numeric architecture (not integrated but one may update the hyperparameters in case running the numeric architecture in a different way).
 
 Python 3.10+ required to execute the notebooks.
