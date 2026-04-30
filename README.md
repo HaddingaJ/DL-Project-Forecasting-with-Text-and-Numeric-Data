@@ -9,6 +9,7 @@ This repository contains the following files
 -
 - Analysis_multimodal.ipynb: Build and evaluate multimodal dataset, architecture and model. Provides the final models, evaluation statistics and figures
 
+- ric_sector_lookup.csv and SPX_leavers_joiners.xlsx are data files used for adding firm metadata
 
 
 Running the notebooks should be carried out sequentially:
