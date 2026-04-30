@@ -21,12 +21,12 @@ Analysis_multimodal uses hyperparameters from the numeric architecture (not inte
 Python 3.10+ required to execute the notebooks.
 
 ## Time Series Sources:
-- [Consumer Price Index]{https://fred.stlouisfed.org/series/CPIAUCSL}
-- [Federal Funds Rate]{https://fred.stlouisfed.org/series/DFF}
-- [Industrial Production Index]{https://fred.stlouisfed.org/series/INDPRO}
-- [Unemployment Rate]{https://fred.stlouisfed.org/series/UNRATE}
-- [Economic Policy Uncertainty Index]{https://fred.stlouisfed.org/series/USEPUINDXD}
-- [VIX]{https://fred.stlouisfed.org/series/VIXCLS}
+- [Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [Federal Funds Rate](https://fred.stlouisfed.org/series/DFF)
+- [Industrial Production Index](https://fred.stlouisfed.org/series/INDPRO)
+- [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)
+- [Economic Policy Uncertainty Index](https://fred.stlouisfed.org/series/USEPUINDXD)
+- [VIX](https://fred.stlouisfed.org/series/VIXCLS)
 
 ### Additional:
 
