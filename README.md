@@ -28,6 +28,7 @@ Python 3.10+ required to execute the notebooks.
 - [Economic Policy Uncertainty Index](https://fred.stlouisfed.org/series/USEPUINDXD)
 - [VIX](https://fred.stlouisfed.org/series/VIXCLS)
 
-### Additional:
+## Additional:
 
-- VAR_exploratory: The statsmodel package was giving some concerning warnings when estimating the VAR, so we decided to check manually whether the parameters were being correctly estimated.
+- VAR_exploratory.ipynb: The statsmodel package was giving some concerning warnings when estimating the VAR, so we decided to check manually whether the parameters were being correctly estimated.
+- hc_dl_model.ipynb: This script trains a more complex numeric LSTM architecture and compares it's performance to the baseline LSTM architecture. The script requires the LSTM hyperparameter tuning from the Numeric_models notebook
